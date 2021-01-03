@@ -16,13 +16,13 @@
 - [westenfalke/one-click-hugo-cms](https://github.com/westenfalke/one-click-hugo-cms) - 
 - [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - 
 
-### more
+### MORE 
 Photos: https://www.eyeem.com/u/westenfalke
 
-#### 📓 Gists I wrote
+### Gists I wrote
 
 
-#### 👯 Check out some of my recent followers
+### Check out some of my recent followers
 
 - [vierinfo](https://github.com/vierinfo)
 
@@ -30,8 +30,12 @@ Photos: https://www.eyeem.com/u/westenfalke
 ![westenfalke's github stats](https://github-readme-stats.vercel.app/api?username=westenfalke&count_private=true&hide_title=true)
 
   I'm an artist/
+  
   I do things/
+  
   Some people like/
+  
   Some don't.
+  
     - Helen Chadwick
 
