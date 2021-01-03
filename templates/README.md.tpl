@@ -2,28 +2,40 @@
   
 ## Greetings From Germany!
 
+#### Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### My latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
 ### My Recent Projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### Recent Releases I Worked On
-{{range recentReleases 10 }}
-{{- if not (or (eq .Name "linode/docs") (eq .Name "linode/linode-api-docs")) -}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{ end -}}
+### more
+Photos: https://www.eyeem.com/u/westenfalke
+
+#### 📓 Gists I wrote
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### Recent Sponsors (Big Thank You!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+#### 👯 Check out some of my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
 {{- end}}
-
-For more information, see [the sponsors page](https://github.com/sponsors/westenfalke/).
-
-### Contact Info
-- Twitter: https://twitter.com/westenfalke/
-
 
 ### GitHub Stats
 ![westenfalke's github stats](https://github-readme-stats.vercel.app/api?username=westenfalke&count_private=true&hide_title=true)
+
+  I'm an artist/
+  I do things/
+  Some people like/
+  Some don't.
+    - Helen Chadwick
+
