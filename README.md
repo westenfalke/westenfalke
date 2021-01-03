@@ -1,15 +1,8 @@
-# westenfalke
-  
 ## Greetings From Germany!
 
 #### Check out what I'm currently working on
 
 - [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) -  (today)
-
-#### My latest projects
-
-- [westenfalke/one-click-hugo-cms](https://github.com/westenfalke/one-click-hugo-cms) - 
-- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - 
 
 ### My Recent Projects
 
