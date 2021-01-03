@@ -17,15 +17,15 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### more
+### MORE 
 Photos: https://www.eyeem.com/u/westenfalke
 
-#### 📓 Gists I wrote
+### Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
+### Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
@@ -34,8 +34,12 @@ Photos: https://www.eyeem.com/u/westenfalke
 ![westenfalke's github stats](https://github-readme-stats.vercel.app/api?username=westenfalke&count_private=true&hide_title=true)
 
   I'm an artist/
+  
   I do things/
+  
   Some people like/
+  
   Some don't.
+  
     - Helen Chadwick
 
