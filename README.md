@@ -2,12 +2,12 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) -  (today)
+- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (today)
 
 ### My Recent Projects
 
 - [westenfalke/one-click-hugo-cms](https://github.com/westenfalke/one-click-hugo-cms) - 
-- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - 
+- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template) 
 
 ### MORE 
 Photos: https://www.eyeem.com/u/westenfalke
