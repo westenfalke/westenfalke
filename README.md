@@ -3,8 +3,8 @@
 ### Check out what I'm currently working on
 
 - [westenfalke/mk-tut-single](https://github.com/westenfalke/mk-tut-single) -  (5 months ago)
-- [westenfalke/mk-tut](https://github.com/westenfalke/mk-tut) - A Makefile based framework to create better README.md files and instructional guide books for CLI maintained systems.  (5 months ago)
-- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (5 months ago)
+- [westenfalke/mk-tut](https://github.com/westenfalke/mk-tut) - A Makefile based framework to create better README.md files and instructional guide books for CLI maintained systems.  (6 months ago)
+- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (6 months ago)
 
 ### My Recent Projects
 
