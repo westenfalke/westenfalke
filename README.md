@@ -20,7 +20,6 @@ Photos: https://www.eyeem.com/u/westenfalke
 
 ### Check out some of my recent followers
 
-- [Novusvetus](https://github.com/Novusvetus)
 - [vierinfo](https://github.com/vierinfo)
 
 ### GitHub Stats
