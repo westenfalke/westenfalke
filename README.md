@@ -1,4 +1,4 @@
-## Greetings From Germany! x
+## Greetings From Germany!
 
 ### Check out what I'm currently working on
 
