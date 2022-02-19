@@ -2,7 +2,7 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (5 days ago)
+- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (6 days ago)
 
 ### My Recent Projects
 
