@@ -2,10 +2,12 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (3 months ago)
+- [westenfalke/dryssg](https://github.com/westenfalke/dryssg) -  (3 days ago)
+- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (4 months ago)
 
 ### My Recent Projects
 
+- [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - 
 - [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template) 
 
 ### MORE 
@@ -28,4 +30,3 @@ Photos: https://www.eyeem.com/u/westenfalke
     Some don't.       \
       - Helen Chadwick
 ```
-
