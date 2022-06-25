@@ -2,8 +2,8 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention (today)
-- [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (4 days ago)
+- [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention (1 day ago)
+- [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (5 days ago)
 - [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (4 months ago)
 
 ### My Recent Projects
