@@ -3,7 +3,7 @@
 ### Check out what I'm currently working on
 
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (2 weeks ago)
-- [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention (3 weeks ago)
+- [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention (4 weeks ago)
 - [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (5 months ago)
 
 ### My Recent Projects
