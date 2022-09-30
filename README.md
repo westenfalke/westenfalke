@@ -2,14 +2,14 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/xssg](https://github.com/westenfalke/xssg) - xsh SSG, a static site generator  (today)
+- [westenfalke/xssgf](https://github.com/westenfalke/xssgf) - XSH-LIB, XSSGF a Static Site Generator Framework (today)
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (5 days ago)
 - [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention (3 months ago)
 - [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template)  (7 months ago)
 
 ### My Recent Projects
 
-- [westenfalke/xssg](https://github.com/westenfalke/xssg) - xsh SSG, a static site generator 
+- [westenfalke/xssgf](https://github.com/westenfalke/xssgf) - XSH-LIB, XSSGF a Static Site Generator Framework
 - [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc)
 - [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template) 
