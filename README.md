@@ -2,7 +2,7 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (2 days ago)
+- [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (3 days ago)
 - [westenfalke/xssgf](https://github.com/westenfalke/xssgf) - XSH-LIB, XSSGF a Static Site Generator Framework (2 weeks ago)
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (3 weeks ago)
 - [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention (3 months ago)
