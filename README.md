@@ -10,11 +10,11 @@
 
 ### My Recent Projects
 
+- [westenfalke/3ssg](https://github.com/westenfalke/3ssg) - 
 - [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell
 - [westenfalke/dotfiles_xssgf](https://github.com/westenfalke/dotfiles_xssgf) - 
 - [westenfalke/xssgf](https://github.com/westenfalke/xssgf) - XSH-LIB, XSSGF a Static Site Generator Framework
 - [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention
-- [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc)
 
 ### MORE 
 Photos: https://www.eyeem.com/u/westenfalke
