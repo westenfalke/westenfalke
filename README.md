@@ -2,8 +2,8 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/3ssg](https://github.com/westenfalke/3ssg) - A Static Site Generator (2 days ago)
-- [westenfalke/3swg](https://github.com/westenfalke/3swg) - A Static Website Generator (2 days ago)
+- [westenfalke/3ssg](https://github.com/westenfalke/3ssg) - A Static Site Generator (3 days ago)
+- [westenfalke/3swg](https://github.com/westenfalke/3swg) - A Static Website Generator (3 days ago)
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (1 week ago)
 - [westenfalke/dotfiles_xssgf](https://github.com/westenfalke/dotfiles_xssgf) -  (1 month ago)
 - [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (1 month ago)
