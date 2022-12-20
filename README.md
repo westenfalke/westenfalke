@@ -6,7 +6,7 @@
 - [westenfalke/3swg](https://github.com/westenfalke/3swg) - A Static Website Generator (2 weeks ago)
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (3 weeks ago)
 - [westenfalke/dotfiles_xssgf](https://github.com/westenfalke/dotfiles_xssgf) -  (1 month ago)
-- [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (1 month ago)
+- [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (2 months ago)
 
 ### My Recent Projects
 
