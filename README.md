@@ -2,8 +2,8 @@
 
 ### Check out what I'm currently working on
 
-- [keenestflaw/w5g](https://github.com/keenestflaw/w5g) - A static website generator (3 days ago)
-- [westenfalke/automatic-dollop](https://github.com/westenfalke/automatic-dollop) - A Static Website Generator (3 days ago)
+- [keenestflaw/w5g](https://github.com/keenestflaw/w5g) - A static website generator (4 days ago)
+- [westenfalke/automatic-dollop](https://github.com/westenfalke/automatic-dollop) - A Static Website Generator (4 days ago)
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (2 months ago)
 - [westenfalke/dotfiles_xssgf](https://github.com/westenfalke/dotfiles_xssgf) -  (3 months ago)
 - [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (3 months ago)
