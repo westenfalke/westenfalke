@@ -2,7 +2,7 @@
 
 ### Check out what I'm currently working on
 
-- [westenfalke/automatic-dollop](https://github.com/westenfalke/automatic-dollop) - Almost A Static Website Generator (1 day ago)
+- [westenfalke/automatic-dollop](https://github.com/westenfalke/automatic-dollop) - Almost A Static Website Generator (today)
 - [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (2 days ago)
 - [keenestflaw/w5g](https://github.com/keenestflaw/w5g) - A static website generator (1 week ago)
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (2 months ago)
