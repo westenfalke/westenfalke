@@ -26,9 +26,6 @@ Photos: https://www.eyeem.com/u/westenfalke
 
 - [vierinfo](https://github.com/vierinfo)
 
-### GitHub Stats
-![westenfalke's github stats](https://github-readme-stats.vercel.app/api?username=westenfalke&count_private=true&hide_title=true)
-
 ```vim 
     I'm an artist \
     I do things     \
