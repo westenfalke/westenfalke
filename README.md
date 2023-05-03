@@ -4,7 +4,7 @@
 
 - [westenfalke/automatic-dollop](https://github.com/westenfalke/automatic-dollop) - Almost A Static Website Generator (2 months ago)
 - [westenfalke/cell](https://github.com/westenfalke/cell) - Implementing CELL programming language as seen and explained at andybalaam/cell (2 months ago)
-- [keenestflaw/w5g](https://github.com/keenestflaw/w5g) - A static website generator (2 months ago)
+- [keenestflaw/w5g](https://github.com/keenestflaw/w5g) - A static website generator (3 months ago)
 - [westenfalke/dryssg](https://github.com/westenfalke/dryssg) - Static Site Generator (make &amp; pandoc) (5 months ago)
 - [westenfalke/dotfiles_xssgf](https://github.com/westenfalke/dotfiles_xssgf) -  (6 months ago)
 
