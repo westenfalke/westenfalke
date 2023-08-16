@@ -15,7 +15,6 @@ Photos: https://pixelfed.de/westenfalke
 
 ### Gists I wrote
 
-
 ### Check out some of my recent followers
 
 - [vierinfo](https://github.com/vierinfo)
