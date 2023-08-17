@@ -6,7 +6,7 @@
 ### My Recent Projects
 
 - [westenfalke/westenfalke.github.io](https://github.com/westenfalke/westenfalke.github.io) - legendary-invention
-- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - POC onomy (hugo taxonomy template) 
+- [westenfalke/onomy-hugo-theme](https://github.com/westenfalke/onomy-hugo-theme) - hugo taxonomy template from scratch (ONOMY)
 
 ### MORE 
 Photos: https://pixelfed.de/westenfalke
